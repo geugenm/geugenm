@@ -1,8 +1,12 @@
 # Hi there, I'm Eugene
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+%26+Devops+student" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Computer+Science+%26+Devops+engineer;UI%2FUX+Designer)](https://git.io/typing-svg)
+
+
 
 Hello there! My name is Eugene, and I'm a devops engineer and computer science enthusiast with a passion for electronics. Over the years, I've worked on a variety of projects, ranging from decoding satellite data to modding video games.
+
+In addition to my technical skills, I also have a keen eye for design and a passion for creating intuitive user interfaces. I believe that a well-designed UI can make all the difference in the user experience, and I always strive to create software that is both functional and visually appealing.
 
 
 My skills: 
