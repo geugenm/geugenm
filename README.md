@@ -1,4 +1,4 @@
-# Hi there, I'm Eugene ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# Hi there, I'm Eugene
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+%26+Devops+student" alt="Typing SVG" /></a>
 
