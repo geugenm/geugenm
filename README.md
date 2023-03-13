@@ -2,8 +2,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+%26+Devops+student" alt="Typing SVG" /></a>
 
+Hello there! My name is Eugene, and I'm a devops engineer and computer science enthusiast with a passion for electronics. Over the years, I've worked on a variety of projects, ranging from decoding satellite data to modding video games.
 
-I specialize in: 
+
+My skills: 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -12,12 +14,7 @@ I specialize in:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-🌱 I’m currently learning
-
-Distributed system design, Visual Studio extension development and electronics.
-
-
-Prefered IDEs: 
+Preferred IDEs: 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
@@ -33,8 +30,13 @@ Operating systems:
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=geugenm)
 
+
+## Profile statistics:
+
+![Metrics](https://metrics.lecoq.io/geugenm?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&lines=1&isocalendar=1&stars=1&habits=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&gists=false&config.timezone=Europe%2FMinsk)
+
+![](https://komarev.com/ghpvc/?username=geugenm)
 
 <!--
 **geugenm/geugenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,3 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
