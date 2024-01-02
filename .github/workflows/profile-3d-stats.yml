@@ -1,4 +1,4 @@
-name: generate_gitHub_profile_3d_stats
+name: generate_github_profile_3d_stats
 
 on:
  schedule:
