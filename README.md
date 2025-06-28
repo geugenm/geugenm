@@ -4,9 +4,9 @@
 
 <div align="right">
   
-[![GitHub followers](https://img.shields.io/github/followers/geugenm?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/geugenm)
+[![GitHub followers](https://img.shields.io/github/followers/e-gleba?style=for-the-badge&logo=github&color=181717&labelColor=181717)](https://github.com/e-gleba)
 [![Сетка](https://img.shields.io/badge/Сетка-Profile-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAxOWMtNSAwLTYtNC05LTQiLz48cGF0aCBkPSJNNCAxNWMtNCAwLTQtNC00LTQiLz48cGF0aCBkPSJNMTMgMTljLTEtMi0yLTMtNC0zIi8+PC9zdmc+&color=4A90E2&labelColor=2F3437)](https://set.ki/P37MfcQ)
-[![Views](https://komarev.com/ghpvc/?username=geugenm&style=for-the-badge&color=blueviolet)](https://github.com/geugenm)
+[![Views](https://komarev.com/ghpvc/?username=e-gleba&style=for-the-badge&color=blueviolet)](https://github.com/geugenm)
 
 ---
 
@@ -26,9 +26,9 @@
 </td><td>
 
 ### Core Stack
-![C++](https://img.shields.io/badge/C++-23-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-23-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -66,6 +66,6 @@
 [![GitFlic](https://img.shields.io/badge/GitFlic-FF6B6B?style=for-the-badge&logo=git&logoColor=white)](https://gitflic.ru/user/egleba)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/egleba)
 
-![Metrics](https://github.com/geugenm/geugenm/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+![Metrics](https://github.com/e-gleba/e-gleba/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
