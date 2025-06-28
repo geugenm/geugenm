@@ -63,10 +63,10 @@
 
 <div align="center">
 
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/geugenm)
+[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/egleba)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geugenm)
-[![GitFlic](https://img.shields.io/badge/GitFlic-FF6B6B?style=for-the-badge&logo=git&logoColor=white)](https://gitflic.ru/user/geugenm)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/geugenm/)
+[![GitFlic](https://img.shields.io/badge/GitFlic-FF6B6B?style=for-the-badge&logo=git&logoColor=white)](https://gitflic.ru/user/egleba)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/egleba)
 
 ![Metrics](https://github.com/geugenm/geugenm/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
