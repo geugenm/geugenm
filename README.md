@@ -62,10 +62,6 @@
 
 <div align="center">
 
-[![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/egleba)
-[![GitFlic](https://img.shields.io/badge/GitFlic-FF6B6B?style=for-the-badge&logo=git&logoColor=white)](https://gitflic.ru/user/egleba)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/egleba)
-
 ![Metrics](https://github.com/e-gleba/e-gleba/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
